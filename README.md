@@ -1,2 +1,2 @@
-# somethings-py
-alguns projetos em python3
+# somethings
+things in * py
